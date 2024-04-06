@@ -4,7 +4,7 @@ import { Signup } from './pages/Signup'
 import {Signin} from './pages/Signin'
 import { SendMoney } from './pages/SendMoney'
 import { Dashboard } from './pages/Dashboard'
-import { Startingpage } from './pages/Startingpage'
+import { Startingpage } from './pages/StartingPage'
 // import './App.css'
 
 function App() {
